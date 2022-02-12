@@ -1,6 +1,4 @@
 The MIT License
-Copyright (c) 2009 Scot Chacon
+Copyright (c) 2009 Scott Chacon
 Permission is hereby granted,
 freeze of charge, to any person
-
-The new line.
